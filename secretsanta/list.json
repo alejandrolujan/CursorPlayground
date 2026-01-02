@@ -1,0 +1,14 @@
+{
+  "participants": [
+    "Ale",
+    "Dani",
+    "Sebas",
+    "Ari",
+    "Andre",
+    "Bibi"
+  ],
+  "exclusions": [
+    ["Ale", "Dani"],
+    ["Sebas", "Ari"]
+  ]
+}

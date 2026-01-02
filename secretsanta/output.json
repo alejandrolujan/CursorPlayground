@@ -1,0 +1,26 @@
+[
+  {
+    "giver" : "Andre",
+    "receiver" : "Sebas"
+  },
+  {
+    "giver" : "Sebas",
+    "receiver" : "Bibi"
+  },
+  {
+    "giver" : "Bibi",
+    "receiver" : "Ale"
+  },
+  {
+    "giver" : "Ale",
+    "receiver" : "Ari"
+  },
+  {
+    "giver" : "Ari",
+    "receiver" : "Dani"
+  },
+  {
+    "giver" : "Dani",
+    "receiver" : "Andre"
+  }
+]
